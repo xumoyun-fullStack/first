@@ -3,15 +3,12 @@ section{
   
 }
 .slider{
-     background-image: url('./back/back3.png');
-     overflow:hidden;
-     height:430px; 
+     background-image: url('../back/back3.png');
+     background-repeat: no-repeat;
+     height:410px;
 }
 .slider_1{
-    float:left;
-    height:430px;
     margin-left:500px;
-
 }
 
 
