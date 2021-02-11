@@ -1,0 +1,39 @@
+section{
+    overflow:hidden;
+}
+.slider{
+   
+    /* background-image: url('/back/back3.png'); */
+    background-image: url('./back/back3.png');
+}
+.slider_1{
+    float:left;
+    height:430px;
+    margin-left:500px;
+}
+
+
+.text_1{
+    font-family:'Myriad Pro Regular';
+    font-size:58px;
+    padding-top:40px;
+    font-weight:bold;
+}
+.text_2{
+    font-family:'Myriad Pro Regular';
+    font-size:40px;
+    padding-left:40px;
+    font-weight:bold;
+}
+.button_1{
+    background:linear-gradient(#4fa5b6, #318ea2);
+    color:#fff;
+    height:50px;
+    width:210px;
+    font-family:'Myriad Pro Regular';
+    font-size:30px;
+    font-weight:bold;
+    border-radius: 8px;
+    margin-left:70px;
+    margin-top:40px;
+}
