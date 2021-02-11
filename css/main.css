@@ -9,6 +9,10 @@ main{
     background-color: #fdfdfd;
     border-top-left-radius:10px;
     border-top-right-radius:10px;
+    
+}
+main ul{
+    overflow:hidden;
 }
 main ul li {
     float:left;
@@ -42,6 +46,7 @@ main ul li p a{
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     box-shadow: 1px 1px 1px #cccccc;
+    
 }
 .block{
     float:left;

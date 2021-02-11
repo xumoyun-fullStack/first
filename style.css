@@ -1,27 +1,25 @@
+
 @import './fonts/style.css'; 
 @import './css/style_section.css';
 @import './css/main.css';
 @import './css/footer.css';
-
+*{
+    margin: 0;
+    padding: 0; 
+}
 body{
-    
     height: 1428px;
-    background-image: url('./back/back3.png');
-    background-repeat: no-repeat; 
-    background-position-x: 200px ;
-    background-position-y:180px;
     background-color:#e2e2e2;
 }
+
+
+
 .container{
     width:920px;
     margin:0 auto;
 }
  
 
-*{
-    margin: 0;
-    padding: 0; 
-}
 header{
     height:160px;
 }

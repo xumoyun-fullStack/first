@@ -1,15 +1,17 @@
 section{
     overflow:hidden;
+  
 }
 .slider{
-   
-    /* background-image: url('/back/back3.png'); */
-    background-image: url('./back/back3.png');
+     background-image: url('./back/back3.png');
+     overflow:hidden;
+     height:430px; 
 }
 .slider_1{
     float:left;
     height:430px;
     margin-left:500px;
+
 }
 
 
@@ -34,6 +36,7 @@ section{
     font-size:30px;
     font-weight:bold;
     border-radius: 8px;
+    border:none;
     margin-left:70px;
     margin-top:40px;
 }
