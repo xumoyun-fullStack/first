@@ -7,18 +7,15 @@
     margin: 0;
     padding: 0; 
 }
-.general{
-    height: 1480px;
-    width:1000px;
+body{
     background:linear-gradient(#e3e3e3, #e2e2e2);
-    margin:0 auto;
 }
-    
 
 
 .container{
     width:920px;
     margin:0 auto;
+    height: 1480px;
 }
  
 
@@ -26,6 +23,7 @@ header{
     height:160px;
 }
 .logo{
+    margin-top:20px;
     margin-bottom:20px;
 }
 
@@ -44,6 +42,10 @@ nav ul li{
     display:table-cell;
     border-right: 1px solid #cccccc;
     
+}
+.active{
+    background:linear-gradient(#4ea4b6, #308da2);
+    color:#fff;
 }
 nav ul li:first-child{
     border-left: none;
